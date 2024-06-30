@@ -117,6 +117,6 @@ from langchain import globals
 globals.set_verbose(True)
 
 agent = agent_factory()
-response = agent.invoke({"question": "how much is 2+5"})
+response = agent.invoke({"question": "how much is 1+1"})
 print(response)
 ```
