@@ -121,7 +121,7 @@ response = agent.invoke({"question": "how much is 1+1"})
 print(response)
 ```
 
-## Contact Information
+## Contact
 
 For more information, please reach out to me at:
 
